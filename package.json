@@ -1,0 +1,14 @@
+{
+  "name": "trade-sticker",
+  "version": "1.0.0",
+  "description": "Teste de sistema de troca de figurinhas",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Victor Hugo",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
